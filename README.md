@@ -6,3 +6,6 @@
 
 ## run
 python fractal.py
+
+## credits
+Thanks to: https://rosettacode.org/wiki/Fractal_tree
